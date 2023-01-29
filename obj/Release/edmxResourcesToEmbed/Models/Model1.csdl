@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LINUX">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="REGNO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UNIT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THEORY" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PRACTICAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="G_TOTAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GRADING" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="REMARKS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BATCHRANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="stsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LINUXes" EntityType="Self.LINUX" />
+    <EntitySet Name="NMC_" EntityType="stsModel.NMC_" />
+    <EntitySet Name="CFC_" EntityType="stsModel.CFC_" />
+  </EntityContainer>
+  <EntityType Name="NMC_">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="REGNO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UNIT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THEORY" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PRACTICAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="G_TOTAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PERCENTAGE" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="GRADE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="REMARK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BATCHRANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="CFC_">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="REGNO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UNIT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THEORY" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PRACTICAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="G_TOTAL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PERCENTAGE" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="GRADE" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="REMARK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BATCHRANK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

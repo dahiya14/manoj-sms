@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="stsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="WSA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="REG NO" Type="nvarchar" MaxLength="50" />
+    <Property Name="RANK" Type="nvarchar" MaxLength="50" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="50" />
+    <Property Name="BATCH" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-1" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-2" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-3" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-4" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-5" Type="nvarchar" MaxLength="50" />
+    <Property Name="PAPER-6" Type="nvarchar" MaxLength="50" />
+    <Property Name="GRADE" Type="nvarchar" MaxLength="50" />
+    <Property Name="PERCENTAGE" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="POSITION" Type="nvarchar" MaxLength="50" />
+    <Property Name="REMARK" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="stsModelStoreContainer">
+    <EntitySet Name="WSA" EntityType="Self.WSA" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

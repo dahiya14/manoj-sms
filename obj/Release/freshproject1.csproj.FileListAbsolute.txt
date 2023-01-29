@@ -1,0 +1,819 @@
+C:\Users\61\Desktop\project\freshproject1\bin\freshproject1.dll.config
+C:\Users\61\Desktop\project\freshproject1\bin\freshproject1.dll
+C:\Users\61\Desktop\project\freshproject1\bin\freshproject1.pdb
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csc.exe
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csc.exe.config
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csc.rsp
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csi.exe
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csi.exe.config
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\csi.rsp
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.AppContext.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Console.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.IO.Compression.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Net.Http.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.ValueTuple.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\vbc.exe
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\vbc.exe.config
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\vbc.rsp
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\VBCSCompiler.exe
+C:\Users\61\Desktop\project\freshproject1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\61\Desktop\project\freshproject1\bin\Antlr3.Runtime.dll
+C:\Users\61\Desktop\project\freshproject1\bin\EntityFramework.dll
+C:\Users\61\Desktop\project\freshproject1\bin\EntityFramework.SqlServer.dll
+C:\Users\61\Desktop\project\freshproject1\bin\EPPlus.Core.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\61\Desktop\project\freshproject1\bin\MongoDB.Bson.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Newtonsoft.Json.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Owin.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Helpers.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Mvc.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Optimization.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Razor.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.dll
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.Razor.dll
+C:\Users\61\Desktop\project\freshproject1\bin\WebGrease.dll
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\61\Desktop\project\freshproject1\bin\EPPlus.Core.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\61\Desktop\project\freshproject1\bin\MongoDB.Bson.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Helpers.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Mvc.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Optimization.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.Razor.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\61\Desktop\project\freshproject1\bin\System.Web.WebPages.Razor.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Newtonsoft.Json.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Antlr3.Runtime.pdb
+C:\Users\61\Desktop\project\freshproject1\bin\EntityFramework.xml
+C:\Users\61\Desktop\project\freshproject1\bin\EntityFramework.SqlServer.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\61\Desktop\project\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\61\Desktop\project\freshproject1\obj\Release\freshproject1.csproj.AssemblyReference.cache
+C:\Users\61\Desktop\project\freshproject1\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+C:\Users\61\Desktop\project\freshproject1\obj\Release\freshproject1.csproj.CopyComplete
+C:\Users\61\Desktop\project\freshproject1\obj\Release\freshproject1.dll
+C:\Users\61\Desktop\project\freshproject1\obj\Release\freshproject1.pdb
+E:\last\freshproject1\bin\freshproject1.dll.config
+E:\last\freshproject1\bin\freshproject1.dll
+E:\last\freshproject1\bin\freshproject1.pdb
+E:\last\freshproject1\bin\roslyn\csc.exe
+E:\last\freshproject1\bin\roslyn\csc.exe.config
+E:\last\freshproject1\bin\roslyn\csc.rsp
+E:\last\freshproject1\bin\roslyn\csi.exe
+E:\last\freshproject1\bin\roslyn\csi.exe.config
+E:\last\freshproject1\bin\roslyn\csi.rsp
+E:\last\freshproject1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\last\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\last\freshproject1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\last\freshproject1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\last\freshproject1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\last\freshproject1\bin\roslyn\System.AppContext.dll
+E:\last\freshproject1\bin\roslyn\System.Collections.Immutable.dll
+E:\last\freshproject1\bin\roslyn\System.Console.dll
+E:\last\freshproject1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\last\freshproject1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\last\freshproject1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\last\freshproject1\bin\roslyn\System.Globalization.Calendars.dll
+E:\last\freshproject1\bin\roslyn\System.IO.Compression.dll
+E:\last\freshproject1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\last\freshproject1\bin\roslyn\System.IO.FileSystem.dll
+E:\last\freshproject1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\last\freshproject1\bin\roslyn\System.Net.Http.dll
+E:\last\freshproject1\bin\roslyn\System.Net.Sockets.dll
+E:\last\freshproject1\bin\roslyn\System.Reflection.Metadata.dll
+E:\last\freshproject1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\last\freshproject1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\last\freshproject1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\last\freshproject1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\last\freshproject1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\last\freshproject1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\last\freshproject1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\last\freshproject1\bin\roslyn\System.ValueTuple.dll
+E:\last\freshproject1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\last\freshproject1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\last\freshproject1\bin\roslyn\System.Xml.XPath.dll
+E:\last\freshproject1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\last\freshproject1\bin\roslyn\vbc.exe
+E:\last\freshproject1\bin\roslyn\vbc.exe.config
+E:\last\freshproject1\bin\roslyn\vbc.rsp
+E:\last\freshproject1\bin\roslyn\VBCSCompiler.exe
+E:\last\freshproject1\bin\roslyn\VBCSCompiler.exe.config
+E:\last\freshproject1\bin\Antlr3.Runtime.dll
+E:\last\freshproject1\bin\EntityFramework.dll
+E:\last\freshproject1\bin\EntityFramework.SqlServer.dll
+E:\last\freshproject1\bin\EPPlus.Core.dll
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\last\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\last\freshproject1\bin\Microsoft.Owin.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Google.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\last\freshproject1\bin\Microsoft.ReportViewer.WebForms.dll
+E:\last\freshproject1\bin\Microsoft.Web.Infrastructure.dll
+E:\last\freshproject1\bin\MongoDB.Bson.dll
+E:\last\freshproject1\bin\Newtonsoft.Json.dll
+E:\last\freshproject1\bin\Owin.dll
+E:\last\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\last\freshproject1\bin\System.Web.Helpers.dll
+E:\last\freshproject1\bin\System.Web.Mvc.dll
+E:\last\freshproject1\bin\System.Web.Optimization.dll
+E:\last\freshproject1\bin\System.Web.Razor.dll
+E:\last\freshproject1\bin\System.Web.WebPages.Deployment.dll
+E:\last\freshproject1\bin\System.Web.WebPages.dll
+E:\last\freshproject1\bin\System.Web.WebPages.Razor.dll
+E:\last\freshproject1\bin\WebGrease.dll
+E:\last\freshproject1\bin\Microsoft.ReportViewer.Common.dll
+E:\last\freshproject1\bin\EPPlus.Core.xml
+E:\last\freshproject1\bin\Microsoft.ReportViewer.WebForms.xml
+E:\last\freshproject1\bin\MongoDB.Bson.xml
+E:\last\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\last\freshproject1\bin\System.Web.Helpers.xml
+E:\last\freshproject1\bin\System.Web.Mvc.xml
+E:\last\freshproject1\bin\System.Web.Optimization.xml
+E:\last\freshproject1\bin\System.Web.Razor.xml
+E:\last\freshproject1\bin\System.Web.WebPages.xml
+E:\last\freshproject1\bin\System.Web.WebPages.Deployment.xml
+E:\last\freshproject1\bin\System.Web.WebPages.Razor.xml
+E:\last\freshproject1\bin\Newtonsoft.Json.xml
+E:\last\freshproject1\bin\Antlr3.Runtime.pdb
+E:\last\freshproject1\bin\EntityFramework.xml
+E:\last\freshproject1\bin\EntityFramework.SqlServer.xml
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\last\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\last\freshproject1\bin\Microsoft.Owin.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Google.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\last\freshproject1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\last\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\last\freshproject1\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\last\freshproject1\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\last\freshproject1\obj\Release\freshproject1.csproj.CopyComplete
+E:\last\freshproject1\obj\Release\freshproject1.dll
+E:\last\freshproject1\obj\Release\freshproject1.pdb
+E:\last - Copy\freshproject1\bin\freshproject1.dll.config
+E:\last - Copy\freshproject1\bin\freshproject1.dll
+E:\last - Copy\freshproject1\bin\freshproject1.pdb
+E:\last - Copy\freshproject1\bin\roslyn\csc.exe
+E:\last - Copy\freshproject1\bin\roslyn\csc.exe.config
+E:\last - Copy\freshproject1\bin\roslyn\csc.rsp
+E:\last - Copy\freshproject1\bin\roslyn\csi.exe
+E:\last - Copy\freshproject1\bin\roslyn\csi.exe.config
+E:\last - Copy\freshproject1\bin\roslyn\csi.rsp
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\last - Copy\freshproject1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.AppContext.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Collections.Immutable.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Console.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Globalization.Calendars.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.IO.Compression.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.IO.FileSystem.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Net.Http.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Net.Sockets.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Reflection.Metadata.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.ValueTuple.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Xml.XPath.dll
+E:\last - Copy\freshproject1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\last - Copy\freshproject1\bin\roslyn\vbc.exe
+E:\last - Copy\freshproject1\bin\roslyn\vbc.exe.config
+E:\last - Copy\freshproject1\bin\roslyn\vbc.rsp
+E:\last - Copy\freshproject1\bin\roslyn\VBCSCompiler.exe
+E:\last - Copy\freshproject1\bin\roslyn\VBCSCompiler.exe.config
+E:\last - Copy\freshproject1\bin\Antlr3.Runtime.dll
+E:\last - Copy\freshproject1\bin\EntityFramework.dll
+E:\last - Copy\freshproject1\bin\EntityFramework.SqlServer.dll
+E:\last - Copy\freshproject1\bin\EPPlus.Core.dll
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\last - Copy\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Google.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\last - Copy\freshproject1\bin\Microsoft.ReportViewer.WebForms.dll
+E:\last - Copy\freshproject1\bin\Microsoft.Web.Infrastructure.dll
+E:\last - Copy\freshproject1\bin\MongoDB.Bson.dll
+E:\last - Copy\freshproject1\bin\Newtonsoft.Json.dll
+E:\last - Copy\freshproject1\bin\Owin.dll
+E:\last - Copy\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\last - Copy\freshproject1\bin\System.Web.Helpers.dll
+E:\last - Copy\freshproject1\bin\System.Web.Mvc.dll
+E:\last - Copy\freshproject1\bin\System.Web.Optimization.dll
+E:\last - Copy\freshproject1\bin\System.Web.Razor.dll
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.Deployment.dll
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.dll
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.Razor.dll
+E:\last - Copy\freshproject1\bin\WebGrease.dll
+E:\last - Copy\freshproject1\bin\Microsoft.ReportViewer.Common.dll
+E:\last - Copy\freshproject1\bin\EPPlus.Core.xml
+E:\last - Copy\freshproject1\bin\Microsoft.ReportViewer.WebForms.xml
+E:\last - Copy\freshproject1\bin\MongoDB.Bson.xml
+E:\last - Copy\freshproject1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\last - Copy\freshproject1\bin\System.Web.Helpers.xml
+E:\last - Copy\freshproject1\bin\System.Web.Mvc.xml
+E:\last - Copy\freshproject1\bin\System.Web.Optimization.xml
+E:\last - Copy\freshproject1\bin\System.Web.Razor.xml
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.xml
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.Deployment.xml
+E:\last - Copy\freshproject1\bin\System.Web.WebPages.Razor.xml
+E:\last - Copy\freshproject1\bin\Newtonsoft.Json.xml
+E:\last - Copy\freshproject1\bin\Antlr3.Runtime.pdb
+E:\last - Copy\freshproject1\bin\EntityFramework.xml
+E:\last - Copy\freshproject1\bin\EntityFramework.SqlServer.xml
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\last - Copy\freshproject1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Google.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\last - Copy\freshproject1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\last - Copy\freshproject1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\last - Copy\freshproject1\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\last - Copy\freshproject1\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\last - Copy\freshproject1\obj\Release\freshproject1.csproj.CopyComplete
+E:\last - Copy\freshproject1\obj\Release\freshproject1.dll
+E:\last - Copy\freshproject1\obj\Release\freshproject1.pdb
+E:\last - Copy\LATEST SMS 1610\bin\freshproject1.dll.config
+E:\last - Copy\LATEST SMS 1610\bin\freshproject1.dll
+E:\last - Copy\LATEST SMS 1610\bin\freshproject1.pdb
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csc.exe
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csc.exe.config
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csc.rsp
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csi.exe
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csi.exe.config
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\csi.rsp
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.Managed.Core.targets
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.AppContext.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Collections.Immutable.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Console.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Globalization.Calendars.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.IO.Compression.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.IO.FileSystem.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Net.Http.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Net.Sockets.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Reflection.Metadata.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.ValueTuple.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Xml.XmlDocument.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Xml.XPath.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\vbc.exe
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\vbc.exe.config
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\vbc.rsp
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\VBCSCompiler.exe
+E:\last - Copy\LATEST SMS 1610\bin\roslyn\VBCSCompiler.exe.config
+E:\last - Copy\LATEST SMS 1610\bin\Antlr3.Runtime.dll
+E:\last - Copy\LATEST SMS 1610\bin\EntityFramework.dll
+E:\last - Copy\LATEST SMS 1610\bin\EntityFramework.SqlServer.dll
+E:\last - Copy\LATEST SMS 1610\bin\EPPlus.Core.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.Core.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Cookies.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Facebook.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Google.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.OAuth.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Twitter.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.ReportViewer.WebForms.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Web.Infrastructure.dll
+E:\last - Copy\LATEST SMS 1610\bin\MongoDB.Bson.dll
+E:\last - Copy\LATEST SMS 1610\bin\Newtonsoft.Json.dll
+E:\last - Copy\LATEST SMS 1610\bin\Owin.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Helpers.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Mvc.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Optimization.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Razor.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.Deployment.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.dll
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.Razor.dll
+E:\last - Copy\LATEST SMS 1610\bin\WebGrease.dll
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.ReportViewer.Common.dll
+E:\last - Copy\LATEST SMS 1610\bin\EPPlus.Core.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.ReportViewer.WebForms.xml
+E:\last - Copy\LATEST SMS 1610\bin\MongoDB.Bson.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Helpers.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Mvc.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Optimization.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.Razor.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.Deployment.xml
+E:\last - Copy\LATEST SMS 1610\bin\System.Web.WebPages.Razor.xml
+E:\last - Copy\LATEST SMS 1610\bin\Newtonsoft.Json.xml
+E:\last - Copy\LATEST SMS 1610\bin\Antlr3.Runtime.pdb
+E:\last - Copy\LATEST SMS 1610\bin\EntityFramework.xml
+E:\last - Copy\LATEST SMS 1610\bin\EntityFramework.SqlServer.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.Core.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Facebook.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Cookies.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Google.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.Twitter.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.Owin.Security.OAuth.xml
+E:\last - Copy\LATEST SMS 1610\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\last - Copy\LATEST SMS 1610\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\last - Copy\LATEST SMS 1610\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\last - Copy\LATEST SMS 1610\obj\Release\freshproject1.csproj.CopyComplete
+E:\last - Copy\LATEST SMS 1610\obj\Release\freshproject1.dll
+E:\last - Copy\LATEST SMS 1610\obj\Release\freshproject1.pdb
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\freshproject1.dll.config
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\freshproject1.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\freshproject1.pdb
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe.config
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csc.rsp
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe.config
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\csi.rsp
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.AppContext.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Collections.Immutable.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Console.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Globalization.Calendars.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Http.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Sockets.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Reflection.Metadata.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.ValueTuple.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe.config
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\vbc.rsp
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe.config
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EntityFramework.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EPPlus.Core.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Web.Infrastructure.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Owin.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Razor.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\WebGrease.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.Common.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EPPlus.Core.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.Razor.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.pdb
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EntityFramework.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\last - Copy\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\last - Copy\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\last - Copy\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CopyComplete
+E:\last - Copy\LATEST SMS 1610 - Copy\obj\Release\freshproject1.dll
+E:\last - Copy\LATEST SMS 1610 - Copy\obj\Release\freshproject1.pdb
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\freshproject1.dll.config
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\freshproject1.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\freshproject1.pdb
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe.config
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csc.rsp
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe.config
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\csi.rsp
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.AppContext.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Collections.Immutable.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Console.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Globalization.Calendars.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Http.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Sockets.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Reflection.Metadata.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.ValueTuple.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe.config
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\vbc.rsp
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe.config
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EntityFramework.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EPPlus.Core.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Web.Infrastructure.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Owin.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Razor.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\WebGrease.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.Common.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EPPlus.Core.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.Razor.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.pdb
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EntityFramework.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CopyComplete
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\obj\Release\freshproject1.dll
+E:\latest copy 05.01.23\LATEST SMS 1610 - Copy\obj\Release\freshproject1.pdb
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\freshproject1.dll.config
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\freshproject1.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\freshproject1.pdb
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csc.exe.config
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csc.rsp
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csi.exe.config
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\csi.rsp
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.AppContext.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Collections.Immutable.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Console.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Globalization.Calendars.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Http.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Net.Sockets.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Reflection.Metadata.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.ValueTuple.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\vbc.exe.config
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\vbc.rsp
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\roslyn\VBCSCompiler.exe.config
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EntityFramework.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EPPlus.Core.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Web.Infrastructure.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Owin.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Razor.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\WebGrease.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.Common.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EPPlus.Core.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.ReportViewer.WebForms.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\MongoDB.Bson.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Helpers.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Mvc.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Optimization.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.Razor.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Deployment.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\System.Web.WebPages.Razor.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Newtonsoft.Json.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Antlr3.Runtime.pdb
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EntityFramework.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\EntityFramework.SqlServer.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Google.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.AssemblyReference.cache
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CoreCompileInputs.cache
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\obj\Release\freshproject1.csproj.CopyComplete
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\obj\Release\freshproject1.dll
+E:\latest copy 05.01.23\06.01\LATEST SMS 1610 - Copy\obj\Release\freshproject1.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stsModelStoreContainer" CdmEntityContainer="stsEntities">
+    <EntitySetMapping Name="LINUXes">
+      <EntityTypeMapping TypeName="stsModel.LINUX">
+        <MappingFragment StoreEntitySet="LINUX">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="REGNO" ColumnName="REGNO" />
+          <ScalarProperty Name="RANK" ColumnName="RANK" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+          <ScalarProperty Name="THEORY" ColumnName="THEORY" />
+          <ScalarProperty Name="PRACTICAL" ColumnName="PRACTICAL" />
+          <ScalarProperty Name="G_TOTAL" ColumnName="G/TOTAL" />
+          <ScalarProperty Name="GRADING" ColumnName="GRADING" />
+          <ScalarProperty Name="REMARKS" ColumnName="REMARKS" />
+          <ScalarProperty Name="BATCHRANK" ColumnName="BATCHRANK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stsModelStoreContainer" CdmEntityContainer="stsEntities">
+    <EntitySetMapping Name="LINUXes">
+      <EntityTypeMapping TypeName="stsModel.LINUX">
+        <MappingFragment StoreEntitySet="LINUX">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="REGNO" ColumnName="REGNO" />
+          <ScalarProperty Name="RANK" ColumnName="RANK" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+          <ScalarProperty Name="THEORY" ColumnName="THEORY" />
+          <ScalarProperty Name="PRACTICAL" ColumnName="PRACTICAL" />
+          <ScalarProperty Name="G_TOTAL" ColumnName="G/TOTAL" />
+          <ScalarProperty Name="GRADING" ColumnName="GRADING" />
+          <ScalarProperty Name="REMARKS" ColumnName="REMARKS" />
+          <ScalarProperty Name="BATCHRANK" ColumnName="BATCHRANK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NMC_">
+      <EntityTypeMapping TypeName="stsModel.NMC_">
+        <MappingFragment StoreEntitySet="NMC_">
+          <ScalarProperty Name="BATCHRANK" ColumnName="BATCHRANK" />
+          <ScalarProperty Name="REMARK" ColumnName="REMARK" />
+          <ScalarProperty Name="GRADE" ColumnName="GRADE" />
+          <ScalarProperty Name="PERCENTAGE" ColumnName="PERCENTAGE" />
+          <ScalarProperty Name="G_TOTAL" ColumnName="G_TOTAL" />
+          <ScalarProperty Name="PRACTICAL" ColumnName="PRACTICAL" />
+          <ScalarProperty Name="THEORY" ColumnName="THEORY" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="RANK" ColumnName="RANK" />
+          <ScalarProperty Name="REGNO" ColumnName="REGNO" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CFC_">
+      <EntityTypeMapping TypeName="stsModel.CFC_">
+        <MappingFragment StoreEntitySet="CFC_">
+          <ScalarProperty Name="BATCHRANK" ColumnName="BATCHRANK" />
+          <ScalarProperty Name="REMARK" ColumnName="REMARK" />
+          <ScalarProperty Name="GRADE" ColumnName="GRADE" />
+          <ScalarProperty Name="PERCENTAGE" ColumnName="PERCENTAGE" />
+          <ScalarProperty Name="G_TOTAL" ColumnName="G_TOTAL" />
+          <ScalarProperty Name="PRACTICAL" ColumnName="PRACTICAL" />
+          <ScalarProperty Name="THEORY" ColumnName="THEORY" />
+          <ScalarProperty Name="UNIT" ColumnName="UNIT" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="RANK" ColumnName="RANK" />
+          <ScalarProperty Name="REGNO" ColumnName="REGNO" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

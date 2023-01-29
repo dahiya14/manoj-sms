@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stsModelStoreContainer" CdmEntityContainer="stsEntities">
+    <EntitySetMapping Name="WSAs">
+      <EntityTypeMapping TypeName="stsModel.WSA">
+        <MappingFragment StoreEntitySet="WSA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="REG_NO" ColumnName="REG NO" />
+          <ScalarProperty Name="RANK" ColumnName="RANK" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="BATCH" ColumnName="BATCH" />
+          <ScalarProperty Name="PAPER_1" ColumnName="PAPER-1" />
+          <ScalarProperty Name="PAPER_2" ColumnName="PAPER-2" />
+          <ScalarProperty Name="PAPER_3" ColumnName="PAPER-3" />
+          <ScalarProperty Name="PAPER_4" ColumnName="PAPER-4" />
+          <ScalarProperty Name="PAPER_5" ColumnName="PAPER-5" />
+          <ScalarProperty Name="PAPER_6" ColumnName="PAPER-6" />
+          <ScalarProperty Name="GRADE" ColumnName="GRADE" />
+          <ScalarProperty Name="PERCENTAGE" ColumnName="PERCENTAGE" />
+          <ScalarProperty Name="POSITION" ColumnName="POSITION" />
+          <ScalarProperty Name="REMARK" ColumnName="REMARK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
