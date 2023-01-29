@@ -1,0 +1,129 @@
+﻿@using freshproject1.Controllers
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<div class="container-fluid">*@
+<!-- Image Header -->
+@*<div class="w3-display-container w3-animate-opacity">*@
+
+<h1><img src="~/PHOTOS/cd pic.png" alt="boat" style="width:1100px;height:750px;position:fixed;padding:75PX"></h1>
+<h1 style="font:10PX;padding:40PX;background-color:pink;position:fixed">WELCOME TO INSTRUCTOR PORTAL</h1>
+@*</div>*@
+</div>
+@section instructor{
+    <html>
+    <head>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: 'montserrat';
+                background: #e3e9f7;
+            }
+
+            .logo {
+                padding: 20px;
+                width: 10px;
+            }
+
+            nav ul {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 180px;
+                position: fixed;
+                top: 0;
+                left: 0;
+                background-color: #2b2626;
+            }
+
+                nav ul li {
+                    list-style: none;
+                }
+
+
+                    nav ul li a {
+                        display: block;
+                        font-family: 'montserrat';
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        font-size: 17px;
+                        color: #fff;
+                        position: relative;
+                        padding: 15px 0px 15px 25px;
+                        transition: all 0.5s;
+                    }
+
+                        nav ul li a:before {
+                            content: '';
+                            position: absolute;
+                            top: 0;
+                            right: 0;
+                            height: 100%;
+                            background: #e3e9f7;
+                            border-radius: 40px 0 0 40px;
+                            z-index: -1;
+                            transition: all 1s;
+                        }
+
+                        nav ul li a:hover {
+                            color: #2b2626;
+                        }
+
+                            nav ul li a:hover:before {
+                                width: 95%;
+                            }
+
+
+            .wrapper {
+                margin-left: 260px;
+            }
+
+            .section {
+                display: grid;
+                place-items: center;
+                min-height: 100vh;
+                text-align: center;
+            }
+
+            .box-area h2 {
+                text-transform: uppercase;
+                font-size: 30px;
+            }
+        </style>
+    </head>
+    <body class="body">
+        <nav>
+            <ul>
+                <li class="logo"><img src="~/PHOTOS/teacher.jpg" style="width:160px;padding:20px 1px"></li>
+
+                <li class="w3-green w3-xlarge"><a href="~/HTML PAGE/syllabusinstructor.html"><i class="fa fa-book">Syllabus</a></li>
+                <li class="w3-yellow w3-xlarge"><a href="/Result/Index"><i class="fa fa-book">Result desk</a></li>
+                <li class="w3-green w3-xlarge"><a href="#"><i class="fa fa-users">Attendence</a></li>
+                <li class="w3-red w3-xlarge"><a href="#"><i class="fa fa-picture-o">Notification</a></li>
+                <li class="w3-green w3-xlarge"><a href="#"><i class="fa fa-phone">Teacher details</a></li>
+            </ul>
+        </nav>
+
+        <div class="wrapper">
+            <div class="section">
+                <div class="box-area">
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+    </body>
+
+</html>
+
+}

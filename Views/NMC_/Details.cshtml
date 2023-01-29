@@ -1,0 +1,114 @@
+﻿@model freshproject1.Models.NMC_
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/extra view/ViewPage1.cshtml";
+}
+
+<h2>Details</h2>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="~/css file/StyleSheet1.css">
+
+<div container>
+    <h4>@Model.REGNO</h4>
+    <hr />
+
+    <dl class="dl-horizontal table" style="border:2px solid green">
+        <dt>
+            @Html.DisplayNameFor(model => model.REGNO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.REGNO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RANK)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RANK)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UNIT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UNIT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.THEORY)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.THEORY)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRACTICAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRACTICAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.G_TOTAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.G_TOTAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PERCENTAGE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PERCENTAGE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GRADE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GRADE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.REMARK)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.REMARK)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BATCHRANK)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BATCHRANK)
+        </dd>
+
+    </dl>
+
+</div>
+<p>
+    <button>@Html.ActionLink("Edit", "Edit", new { id = Model.ID })</button> |
+    <button>@Html.ActionLink("Back to List", "Index")</button>
+</p>
+

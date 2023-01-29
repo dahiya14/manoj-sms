@@ -1,0 +1,99 @@
+﻿@model freshproject1.Models.LINUX
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/extra view/ViewPage1.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>LINUX</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.REGNO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.REGNO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RANK)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RANK)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UNIT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UNIT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.THEORY)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.THEORY)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRACTICAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRACTICAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.G_TOTAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.G_TOTAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GRADING)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GRADING)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.REMARKS)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.REMARKS)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BATCHRANK)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BATCHRANK)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

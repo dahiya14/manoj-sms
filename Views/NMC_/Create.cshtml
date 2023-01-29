@@ -1,0 +1,247 @@
+﻿@model freshproject1.Models.NMC_
+
+@{
+    ViewBag.Title = "Create";
+  
+}
+
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/css file/linux.css" />
+    <script src="jquery-3.5.0.min.js"></script>
+
+    @*<script>
+            $(document).ready(function () {
+                // Get value on keyup funtion
+                $("#theory, #practical").keyup(function () {
+
+                    var total = 0;
+                    var x = Number($("#theory").val());
+                    var y = Number($("#practical").val());
+                    var total = x + y;
+
+                    $('#total').val(total);
+
+                });
+            });
+        </script>*@
+    <script>
+
+        function rePercant() {
+            var num1 = parseInt(document.getElementById("THEORY").value);
+            var num2 = parseInt(document.getElementById("PRACTICAL").value);
+
+            document.getElementById("G_TOTAL").value = (num1 + num2);
+
+        }
+
+    </script>
+    <script>
+
+        function Percant() {
+            var num1 = parseInt(document.getElementById("THEORY").value);
+            var num2 = parseInt(document.getElementById("PRACTICAL").value);
+
+            document.getElementById("PERCENTAGE").value = (num1 + num2);
+
+        }
+
+    </script>
+    <script>
+
+        function Grade() {
+            var sub1 = parseInt(document.getElementById("THEORY").value);
+            var sub2 = parseInt(document.getElementById("PRACTICAL").value);
+            //var sub3 = parseInt(document.getElementById("morsereceiving").value);
+            //var sub4 = parseInt(document.getElementById("morsesending").value);
+            //var sub5 = parseInt(document.getElementById("cmp").value);
+
+            if (sub1 > 50 || sub2 > 50) {
+                alert("Please Enter Marks in range of 50");
+            } else {
+                var total = sub1 + sub2;
+                var percant = total;
+
+                if (percant >= 80 && percant < 100) {
+                    document.getElementById("GRADE").innerHTML
+                    document.getElementById("GRADE").value = " D ";
+                }
+                else if (percant >= 70 && percant < 80) {
+                    document.getElementById("GRADE").innerHTML
+                    document.getElementById("GRADE").value = " AX ";
+                }
+                else if (percant >= 60 && percant < 70) {
+                    document.getElementById("GRADE").value = " BX ";
+                }
+                else if (percant >= 45 && percant < 60) {
+                    document.getElementById("GRADE").value = " CX ";
+                }
+                else if (percant < 45) {
+                    document.getElementById("GRADE").value = " FAILED ";
+
+
+                }
+
+            }
+
+
+        }
+
+
+    </script>
+    <script>
+    function Remark() {
+    var sub1 = parseInt(document.getElementById("THEORY").value);
+    var sub2 = parseInt(document.getElementById("PRACTICAL").value);
+    //var sub3 = parseInt(document.getElementById("morsereceiving").value);
+    //var sub4 = parseInt(document.getElementById("morsesending").value);
+    //var sub5 = parseInt(document.getElementById("cmp").value);
+
+    if (sub1 > 50 || sub2 > 50 ) {
+    alert("Please Enter Marks in range of 50");
+    } else {
+    var total = sub1 + sub2 ;
+    var percant = total ;
+
+    if (percant > 45 && percant < 100) {
+    document.getElementById("REMARK").innerHTML
+    document.getElementById("REMARK").value= " PASS ";
+    }
+    
+    else if (percant < 45) {
+    document.getElementById("REMARK").value = " FAILED ";
+
+
+    }
+
+    }
+
+
+    }
+
+
+    </script>
+
+
+    <div>
+        <button style="background-color:black">@Html.ActionLink("BACK", "Index")</button>
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+<div class="row styled-table" style="border:10px solid red">
+    <h4 style="color:blue;text-align:center ">NETWORK MANAGEMENT COURSE RESULT</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.REGNO, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.REGNO, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.REGNO, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.RANK, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.RANK, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.RANK, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.NAME, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.NAME, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NAME, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.UNIT, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.UNIT, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.UNIT, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.THEORY, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.THEORY, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.THEORY, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.PRACTICAL, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.PRACTICAL, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PRACTICAL, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.G_TOTAL, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+
+            <input style="width:350px;height:34px" type="text" id="G_TOTAL" name="G_TOTAL" onblur="rePercant()">
+            @*@Html.ValidationMessageFor(model => model.G_TOTAL, "", new { @class = "text-danger" })*@
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.PERCENTAGE, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+
+            <input style="width:350px;height:34px"type="text" id="PERCENTAGE" name="PERCENTAGE" onblur="Percant()">
+            @*@Html.ValidationMessageFor(model => model.G_TOTAL, "", new { @class = "text-danger" })*@
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.GRADE, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+
+            <input style="width:350px;height:34px" type="text" id="GRADE" name="GRADE" onblur="Grade()">
+            @*@Html.ValidationMessageFor(model => model.G_TOTAL, "", new { @class = "text-danger" })*@
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.REMARK, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+
+            <input style="width:350px;height:34px"type="text" id="REMARK" name="REMARK" onblur="Remark()">
+            @*@Html.ValidationMessageFor(model => model.G_TOTAL, "", new { @class = "text-danger" })*@
+        </div>
+    </div>
+
+    <div class="form-group col-md-4">
+        @Html.LabelFor(model => model.BATCHRANK, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-12">
+            @Html.EditorFor(model => model.BATCHRANK, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.BATCHRANK, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+</div>
+    <div class="form-group col-md-4">
+        <div class=" col-md-12">
+            <input style="background-color:green" type="submit" value="Create" class="btn btn-default btn-group-lg" />
+        </div>
+    </div>
+
+    }
+
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

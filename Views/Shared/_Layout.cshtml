@@ -1,0 +1,136 @@
+﻿@*<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title - My ASP.NET Application</title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" title="more options">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("Teacher", "About", "Home")</li>
+                        <li>@Html.ActionLink("Student", "Contact", "Home")</li>
+                        <li>@Html.ActionLink("Result", "Contact", "Home")</li>
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+    </html>*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+<style>
+     a:hover .navbar .navbar-inverse .navbar-fixed-top {
+        background-color:papayawhip;
+    }
+
+</style>
+</head>
+<body style="background-color:aliceblue">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:black;color:black;height:50px">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" title="more options">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                @Html.ActionLink("SIGNAL-SMS", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse" style="color:black">
+                <ul class="nav navbar-nav" style="font:300">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li style="font-size:larger ;color:white;text-shadow:revert">
+
+                            @Html.ActionLink("HOME", "Index", "Home")
+                        </li>
+
+                        if (User.IsInRole("Admin") || User.IsInRole("Instructor"))
+                        {
+                            <li style="font-size:larger">@Html.ActionLink("INSTRUCTOR ", "INDEX", "instructor")</li>
+                        }
+                        if (User.IsInRole("Admin") || User.IsInRole("Student"))
+                        {
+                            <li style="font-size:larger">@Html.ActionLink("STUDENT ", "INDEX", "student")</li>
+                        }
+                        if (User.IsInRole("Admin") || User.IsInRole("Instructor"))
+                        {
+                        <li style="font-size:larger">@Html.ActionLink("RESULT ", "INDEX", "result")</li>
+                        }
+                    }
+
+
+                </ul>
+                else
+               {
+                @Html.Partial("_LoginPartial")
+                }
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-lg-2" style="min-height:300px;">
+                <div class="list-group">
+                    @RenderSection("homebar", required: false)
+                    @RenderSection("scripts", required: false)
+                    @RenderSection("Instructor", required: false)
+                    @RenderSection("Student", required: false)
+
+                </div>
+            </div>
+
+            <div class=" col-lg-10" style="background-color:aliceblue">
+                @RenderBody()
+
+
+
+
+                <footer>
+                    <p class="text-danger">&copy; @DateTime.Now.Year - This application only for signal training students purpose</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

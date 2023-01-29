@@ -1,0 +1,137 @@
+﻿@using freshproject1.Controllers
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 ><img src="~/PHOTOS/teacher11111111.jpg" style="width:1000px;height:700px"/></h2>
+<style>
+.bg {
+  /* The image used */
+  background-image: url("/PHOTOS/student1.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+@section student{
+    <html>
+    <head>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: 'montserrat';
+                background: #e3e9f7;
+            }
+
+            .logo {
+                padding: 20px;
+                width: 10px;
+            }
+
+            nav ul {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 170px;
+                position: fixed;
+                top: 0;
+                left: 0;
+                background-color: #2b2626;
+            }
+
+                nav ul li {
+                    list-style: none;
+                }
+
+
+                    nav ul li a {
+                        display: block;
+                        font-family: 'montserrat';
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        font-size: 17px;
+                        color: #fff;
+                        position: relative;
+                        padding: 15px 0px 15px 25px;
+                        transition: all 0.5s;
+                    }
+
+                        nav ul li a:before {
+                            content: '';
+                            position: absolute;
+                            top: 0;
+                            right: 0;
+                            height: 100%;
+                            background: #e3e9f7;
+                            border-radius: 40px 0 0 40px;
+                            z-index: -1;
+                            transition: all 1s;
+                        }
+
+                        nav ul li a:hover {
+                            color: #2b2626;
+                        }
+
+                            nav ul li a:hover:before {
+                                width: 75%;
+                            }
+
+
+            .wrapper {
+                margin-left: 260px;
+            }
+
+            .section {
+                display: grid;
+                place-items: center;
+                min-height: 100vh;
+                text-align: center;
+            }
+
+            .box-area h2 {
+                text-transform: uppercase;
+                font-size: 30px;
+            }
+        </style>
+    </head>
+    <body class="body">
+        <nav>
+            <ul>
+                <li class="logo"><img src="~/PHOTOS/student1.jpg" style="width:140px;padding:20px 1px"></li>
+
+                <li class="w3-green w3-large"><a href="~/HTML PAGE/syllabusinstructor.html"><i class="fa fa-book">Syllabus</a></li>
+                <li class="w3-green w3-large"><a href="~/HTML PAGE/linux_weekly_checklist.html"><i class="fa fa-book">Weekly Check List</a></li>
+                <li class="w3-red w3-large"><a href="~/HTML PAGE/STUDENT.html"><i class="fa fa-users">Exam Result</a></li>
+                <li class="w3-red w3-xlarge"><a href="#"><i class="fa fa-picture-o">Latest Notice  </a></li>
+                <li class="w3-yellow w3-xlarge"><a href="#"><i class="fa fa-picture-o">Period detail</a></li>
+            </ul>
+        </nav>
+
+        <div class="wrapper">
+            <div class="section">
+                <div class="box-area">
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+    </body>
+
+</html>
+
+}
+

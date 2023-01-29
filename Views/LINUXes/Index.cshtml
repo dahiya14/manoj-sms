@@ -1,0 +1,245 @@
+﻿@model IEnumerable<freshproject1.Models.LINUX>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/extra view/ViewPage1.cshtml";
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="~/css file/linux.css" />
+<link rel="stylesheet" href="~/css file/ALLTABLE ATTECH.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+@*shorting and searching script*@
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.13.1/af-2.5.1/datatables.min.js"></script>
+@*export to excel 02 link*@
+<script src="jquery.min.js"></script>
+<script src="~/external script/table2excel.js"></script>
+@section export{
+    <script src="jquery-1.11.2.js"></script>
+    <script src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.datatables.net/tabletools/2.2.4/js/dataTables.tableTools.min.js">
+    </script>
+    <link rel="stylesheet" type="text/css"
+          href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css"
+          href="//cdn.datatables.net/tabletools/2.2.4/css/dataTables.tableTools.css" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var table = $('#datatable').dataTable();
+            var tableTools = new $.fn.dataTable.TableTools(table, {
+                'aButtons': [
+                    {
+                        'sExtends': 'xls',
+                        'sButtonText': 'Save to Excel',
+                        'sFileName': 'Data.xls'
+                    },
+                    {
+                        'sExtends': 'print',
+                        'bShowAll': true,
+
+                    },
+                    {
+                        'sExtends': 'pdf',
+                        'bFooter': false
+                    },
+                    'copy',
+                    'csv'
+                ],
+                'sSwfPath': '//cdn.datatables.net/tabletools/2.2.4/swf/copy_csv_xls_pdf.swf'
+            });
+            $(tableTools.fnContainer()).insertBefore('#datatable_wrapper');
+        });
+    </script>
+
+}
+
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+
+@section linux
+    {
+    <html>
+    <head>
+        <style>
+            .right {
+                flex: 65%;
+                padding: 10px;
+            }
+
+            /* Style the search box */
+            #mySearch {
+                width: 85%;
+                font-size: 10px;
+                padding: 10px;
+                border: 1px solid red;
+            }
+
+            /* Style the navigation menu inside the left column */
+            #myMenu {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+            }
+
+                #myMenu li a {
+                    padding: 10px;
+                    text-decoration: solid;
+                    color: black;
+                    display: block
+                }
+
+                    #myMenu li a:hover {
+                        padding: 2px;
+                        background-color: #eee;
+                    }
+        </style>
+    </head>
+    <body>
+        <div class="row">
+            <div class="left" style="background-color:#bbb;">
+                <h2>Menu</h2>
+                <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
+                <ul id="myMenu">
+                    <li><a href="/result/Index"> Result Desk</a></li>
+                    <li style="background-color:green"><a href="/LINUXes/create">Create Result</a></li>
+                    <li><a href="#">Linux SYLLABUS</a></li>
+                    <li><a href="~/HTML PAGE/linux_weekly_checklist.html">Weekly Checklist</a></li>
+                    <li><a href="#">Exam Details</a></li>
+                    <li><a href="#">Attendance</a></li>
+
+
+                </ul>
+            </div>
+        </div>
+
+
+
+    </body>
+</html>
+}
+<button id="btnexport" style="background-color:black;color:white">Export In Excel</button>
+@*<table class="table table-bordered table-condensed table-hover table-striped">*@
+<table id="datatable" class="styled-table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.REGNO)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RANK)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NAME)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UNIT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.THEORY)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PRACTICAL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.G_TOTAL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GRADING)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.REMARKS)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BATCHRANK)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.REGNO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RANK)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NAME)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UNIT)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.THEORY)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PRACTICAL)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.G_TOTAL)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GRADING)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.REMARKS)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BATCHRANK)
+                </td>
+                <td>
+
+                    <button style="background-color:green">@Html.ActionLink("Details", "Details", new { id = item.ID })</button>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <button style="background-color:red">@Html.ActionLink("Delete", "Delete", new { id = item.ID })</button>
+                            <button style="background-color:yellow">@Html.ActionLink("Edit", "Edit", new { id = item.ID })</button>
+                        }
+                    }
+                </td>
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+
+@*export to excel jquery*@
+<script>
+    $(function () {
+        $("#btnexport").click(function () {
+            $("#datatable").table2excel();
+        });
+    });
+</script>
+
+
+
+
